@@ -10,7 +10,7 @@ header {
   font-size: 14px;
 }
 
-.logo {
+logo {
   width: 500px;
   height: 70px;
 }
@@ -93,6 +93,7 @@ figcaption {
   font-weight: 600;
   line-height: 18px;
   color: #9c9c9c;
+  margin: 50px;
 }
 
 .button {
